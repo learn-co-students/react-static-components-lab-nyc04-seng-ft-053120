@@ -2,7 +2,7 @@
 
 const rippleSettings = {
   maxSize: 100,
-  animationSpeed: 2,
+  animationSpeed: 5,
   strokeColor: [45, 45, 45],
 };
 
